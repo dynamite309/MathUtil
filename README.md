@@ -5,7 +5,7 @@ This repository contains a simple Java application used for demonstrate of IC - 
 * MathUtil class: hold all of our own math methods
 * Test class: demonstrate TDD and Util Testing using JUnit
 * .gitignore
-* Markkdown file itself
+* Markdown file itself
 
 ## Connect me via
 1. [GitHub](http://github.com/dynamite309)
